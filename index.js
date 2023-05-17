@@ -111,7 +111,16 @@ var typed = new Typed(".dynamic", {
     strings: ["Hello","Kem cho!","Maja ma!"],
     typespeed: 10,
     backspeed: 10,
-    backDelay:3000,
-    typeDelay:3000,
+    backDelay:1000,
+    typeDelay:1000,
     loop: true 
 });
+
+//PRESSING ENTER AS A SUBMIT BUTTON
+searchBox.addEventListener("keyup", function(event) {
+    if (event.keyCode === 13) {
+      event.preventDefault();
+      document.querySelector(".search button").click();
+    }
+  }
+    );
