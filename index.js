@@ -108,7 +108,7 @@ async function checkweather(city){
 
 
 var typed = new Typed(".dynamic", {
-    strings: ["Hello","Kem cho!","Maja ma!"],
+    strings: ["Hello","ಹೇಗಿದ್ದೀರ!","Kemcho"],
     typespeed: 10,
     backspeed: 10,
     backDelay:1000,
