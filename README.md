@@ -25,7 +25,7 @@
 5. The app will display the current weather information for the specified location.
 6. You can repeat steps 3-5 to check the weather for different locations.
 # Deployment
-- The Weather App is deployed using Netlify and can be accessed at https://weather-app-by-ashu.netlify.app/. 🌐🚀
+- The Weather App is deployed using Netlify and can be accessed at https://weather-tech-tribe.netlify.app/. 🌐🚀
 # Credits
 - The Weather App was developed by Ashutosh Kumar.
 - Weather data is provided by the OpenWeatherMap API. 🌐🌦️
